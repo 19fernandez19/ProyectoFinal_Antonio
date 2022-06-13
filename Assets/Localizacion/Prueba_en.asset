@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Prueba_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: fabb99a64befcc3489e2e4bde80548ab, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 304995557376
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1727338569728
+    m_Localized: Rules
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1786855743488
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1895672766464
+    m_Localized: Enjoy the best soccer game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17277523517440
+    m_Localized: Classic Match
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17308582338560
+    m_Localized: Golden Goal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17332846387200
+    m_Localized: Match to 5 goals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17411594444800
+    m_Localized: CLASSIC MATCH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17448072306688
+    m_Localized: GOLDEN GOAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17475184287744
+    m_Localized: BEST OF 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18804917067776
+    m_Localized: Return
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18964090904576
+    m_Localized: What mode do you want to play?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19227325423616
+    m_Localized: "Jump: \u2191"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19243771289600
+    m_Localized: "Turn Right: \u2192"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19266617663488
+    m_Localized: "Turn Left: \u2190"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19431638360064
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19498650755072
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20441064726528
+    m_Localized: GAME RULES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20470450020352
+    m_Localized: GAME MODES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20517325561856
+    m_Localized: TIME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20553933447168
+    m_Localized: LET YOURSELF WIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20621679845376
+    m_Localized: 'Classic Match
+
+      Golden Goal
+
+      Best Of 5'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20657717305344
+    m_Localized: You have time to win your friend in any game mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20674494521344
+    m_Localized: "\rRemember, if you lose, it's because you want your friend to win
+      something sometime!!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23705873211392
+    m_Localized: Home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1235629059268608
+    m_Localized: OMG, WE ARE GOING TO SECOND!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1235738031480832
+    m_Localized: "\rDON'T REMIND ME PLEASE!!!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1603099171414016
+    m_Localized: 'Jump: W'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1603133220773888
+    m_Localized: 'Turn Right: D'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1603152111919104
+    m_Localized: 'Turn Left: A'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1619137804034048
+    m_Localized: Real Madrid CF has won
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1927724497559552
+    m_Localized: DRAW!!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

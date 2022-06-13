@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Prueba_es-ES
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-ES
+  m_SharedData: {fileID: 11400000, guid: fabb99a64befcc3489e2e4bde80548ab, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 304995557376
+    m_Localized: Jugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1727338569728
+    m_Localized: Reglas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1786855743488
+    m_Localized: Controles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1895672766464
+    m_Localized: Disfruta del mejor juego de futbol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17277523517440
+    m_Localized: "Partido Cl\xE1sico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17308582338560
+    m_Localized: Gol de Oro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17332846387200
+    m_Localized: Partido a 5 goles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17411594444800
+    m_Localized: PARTIDO CLASICO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17448072306688
+    m_Localized: GOL DE ORO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17475184287744
+    m_Localized: AL MEJOR DE 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18804917067776
+    m_Localized: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18964090904576
+    m_Localized: "\xBFQue modo deseas jugar?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19227325423616
+    m_Localized: "Saltar: \u2191"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19243771289600
+    m_Localized: "Derecha: \u2192"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19266617663488
+    m_Localized: "Izquierda: \u2190"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19431638360064
+    m_Localized: Controles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19498650755072
+    m_Localized: Menu Principal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20441064726528
+    m_Localized: REGLAS DEL JUEGO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20470450020352
+    m_Localized: MODOS DE JUEGO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20517325561856
+    m_Localized: TIEMPO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20553933447168
+    m_Localized: DEJATE GANAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20621679845376
+    m_Localized: 'Partido Clasico
+
+      Gol De Oro
+
+      Mejor De 5'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20657717305344
+    m_Localized: Tienes tiempo para ganar a tu amigo en cualquier modo de juego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20674494521344
+    m_Localized: Recuerda, si pierdes, es porque quieres que tu amigo gane algo alguna
+      vez!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23705873211392
+    m_Localized: Inicio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1235629059268608
+    m_Localized: MADRE MIA, NOS VAMOS A SEGUNDA!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1235738031480832
+    m_Localized: NO ME LO RECUERDES POR FAVOR!!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1603099171414016
+    m_Localized: 'Saltar: W'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1603133220773888
+    m_Localized: 'Derecha: D'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1603152111919104
+    m_Localized: 'Izquierda: A'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1619137804034048
+    m_Localized: Ha ganado el Real Madrid CF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1927724497559552
+    m_Localized: EMPATE!!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

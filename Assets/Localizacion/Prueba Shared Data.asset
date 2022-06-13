@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Prueba Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Prueba
+  m_TableCollectionNameGuidString: fabb99a64befcc3489e2e4bde80548ab
+  m_Entries:
+  - m_Id: 304995557376
+    m_Key: textoJugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1727338569728
+    m_Key: textoReglas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1786855743488
+    m_Key: textoControles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1895672766464
+    m_Key: TextoDisfrutaDelMejorJuegoDeFutbol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17277523517440
+    m_Key: botonPartidoClasico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17308582338560
+    m_Key: botonGolDeOro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17332846387200
+    m_Key: botonPartidoA5Goles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17411594444800
+    m_Key: textoPartidoClasico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17448072306688
+    m_Key: textoGolDeOro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17475184287744
+    m_Key: textoMejorA5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18804917067776
+    m_Key: botonVolver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18964090904576
+    m_Key: textoModoElegir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19227325423616
+    m_Key: textoSaltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19243771289600
+    m_Key: textoDerecha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19266617663488
+    m_Key: textoIzquierda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19431638360064
+    m_Key: TextoControles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19498650755072
+    m_Key: botonMenuPrincipal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20441064726528
+    m_Key: textoReglasJuego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20470450020352
+    m_Key: textoModosDeJuego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20517325561856
+    m_Key: textoTiempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20553933447168
+    m_Key: textoDejateGanar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20621679845376
+    m_Key: descripcionModosJuego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20657717305344
+    m_Key: descripcionTiempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20674494521344
+    m_Key: descripcionDejateGanar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23705873211392
+    m_Key: botonInicio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1235629059268608
+    m_Key: textoNosVamosASegunda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1235738031480832
+    m_Key: textoNoMeLoRecuerdes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1603099171414016
+    m_Key: textoSaltar2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1603133220773888
+    m_Key: textoDerecha2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1603152111919104
+    m_Key: textoIzquierda2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1619137804034048
+    m_Key: textoGanadorRealMadrid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1927724497559552
+    m_Key: textoEmpate
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1654336053401
